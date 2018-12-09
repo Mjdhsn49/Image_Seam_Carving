@@ -13,6 +13,7 @@ import os
 import errno
 import numpy as np
 
+
 class ScribbleArea(QtWidgets.QLabel):
 
     def __init__(self, parent=None):
